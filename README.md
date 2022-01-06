@@ -5,18 +5,21 @@ Hi there 👋
 - Wataru Sato
 - Software Engineer currently working as a freelance
 - and mainly involved in the development of frontend/backend
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him 😄
 
 ## ✨ Love to use
 
-- TypeScript, JavaScript, Nuxt.js, Vue.js, Ruby, Ruby on Rails
-- automated testing techniques
-- scrum
+- TypeScript, JavaScript, Nuxt.js, Vue.js
+- Ruby, Ruby, Ruby on Rails
+- Automated testing techniques
+- Scrum 🏉
+- Issue & Task Management 🏄‍♂️
 
 ## 🌱 Currently Learning
 
-- first priority: English
-- second priority: TypeScript, Vite, React, World & Japanese History, Philosophy, Politics, Economics
+- First priority: English
+- Second priority: TypeScript
+- Others: World & Japanese History, Philosophy, Politics, Economics
 
 ## 🔭 My Github Stats:
 
