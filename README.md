@@ -3,11 +3,20 @@ Hi there 👋
 ## 🙋 I'm...
 
 - Wataru Sato
-- Software Engineer currently working as a freelance.
-- and mainly involved in the development of frontend/backend.
--  😄 Pronouns: He/Him
-- ✨ Love to use: TypeScript, JavaScript, Nuxt.js, Vue.js, Ruby, Ruby on Rails
-- 🌱 Currently Learning: TypeScript, Rust, Go, Deno, World & Japanese History, Politics, Philosophy, Economics
+- Software Engineer currently working as a freelance
+- and mainly involved in the development of frontend/backend
+- 😄 Pronouns: He/Him
+
+## ✨ Love to use
+
+- TypeScript, JavaScript, Nuxt.js, Vue.js, Ruby, Ruby on Rails
+- automated testing techniques
+- scrum
+
+## 🌱 Currently Learning
+
+- first priority: English
+- second priority: TypeScript, Vite, React, World & Japanese History, Philosophy, Politics, Economics
 
 ## 🔭 My Github Stats:
 
