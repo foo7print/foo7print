@@ -1,32 +1,27 @@
 Hi there 👋
 
-## 🙋 I'm...
+## 🙋‍♂️ I'm...
 
 - Wataru Sato
 - Software Engineer currently working as a freelance
 - and mainly involved in the development of frontend/backend
-- Pronouns: He/Him 😄
 
 ## ✨ Love to use
 
 - TypeScript, JavaScript, Nuxt.js, Vue.js
 - Ruby, Ruby, Ruby on Rails
 - Automated testing techniques
-- Scrum 🏉
+- Agile, Scrum 🏉
 - Issue & Task Management 🏄‍♂️
 
 ## 🌱 Currently Learning
 
 - First priority: English
-- Second priority: TypeScript
-- Others: World & Japanese History, Philosophy, Politics, Economics
 
-## 🔭 My Github Stats:
+## 🔭 Github Stats:
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foo7print&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=foo7print&theme=onedark&show_icons=ture" />
-</p>
+![](https://github.com/foo7print/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/foo7print/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **foo7print/foo7print** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
