@@ -1,8 +1,5 @@
-Hi there 👋
-
 ## 🙋‍♂️ I'm...
 
-- Wataru Sato
 - Software Engineer currently working as a freelance
 - and mainly involved in the development of frontend/backend
 
@@ -13,15 +10,6 @@ Hi there 👋
 - Automated testing techniques
 - Agile, Scrum 🏉
 - Issue & Task Management 🏄‍♂️
-
-## 🌱 Currently Learning
-
-- First priority: English
-
-## 🔭 Github Stats:
-
-![](https://github.com/foo7print/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/foo7print/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **foo7print/foo7print** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
